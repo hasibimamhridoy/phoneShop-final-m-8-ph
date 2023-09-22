@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "image": "https://static-01.daraz.com.bd/p/b802b8ebb0a784ec791caa75e2d4de66.jpg",
+    "phone_name": "iPhone 14 Pro Max",
+    "brand_name": "Apple",
+    "price": 799.99,
+    "rating": 4.7
+  },
+  {
+    "id": "2",
+    "image": "https://static-01.daraz.com.bd/p/1ec88cbfff48b223f1dbb92ce20df4ec.jpg",
+    "phone_name": "iPhone 14 Pro",
+    "brand_name": "Apple",
+    "price": 899.99,
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "image": "https://static-01.daraz.com.bd/p/986dd21bae23af5b4186e0029dce42a7.jpg",
+    "phone_name": "iPhone 12",
+    "brand_name": "Apple",
+    "price": 999.99,
+    "rating": 3.5
+  },
+  {
+    "id": "4",
+    "image": "https://static-01.daraz.com.bd/p/285dfcce48daca08bbff06e6fb340200.jpg",
+    "phone_name": "iPhone 12 Pro Max",
+    "brand_name": "Apple",
+    "price": 699.99,
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "image": "https://static-01.daraz.com.bd/p/ed234dd8498445e98c74028ddd0f966b.jpg",
+    "phone_name": "Samsung Galaxy S21",
+    "brand_name": "Samsung",
+    "price": 899.99,
+    "rating": 2.9
+  },
+  {
+    "id": "6",
+    "image": "https://static-01.daraz.com.bd/p/89a1dda89c94b5bdbe0acbe205fc799c.jpg",
+    "phone_name": "Samsung Galaxy F23",
+    "brand_name": "Samsung",
+    "price": 1099.99,
+    "rating": 5.0
+  },
+  {
+    "id": "7",
+    "image": "https://static-01.daraz.com.bd/p/3fc5a8e21be21833bd0bcf2b8382fddc.jpg",
+    "phone_name": "Samsung Galaxy A33",
+    "brand_name": "Samsung",
+    "price": 999.99,
+    "rating": 4.7
+  },
+  {
+    "id": "8",
+    "image": "https://static-01.daraz.com.bd/p/ed234dd8498445e98c74028ddd0f966b.jpg",
+    "phone_name": "Samsung Galaxy Note 5",
+    "brand_name": "Samsung",
+    "price": 999.99,
+    "rating": 4.7
+  },
+  
+
+  {
+    "id": "9",
+    "image": "https://static-01.daraz.com.bd/p/627f7b3da3437c31a24cb6d1a9eb51bd.jpg",
+    "phone_name": "Xiaomi Redmi 11",
+    "brand_name": "Xiaomi",
+    "price": 1199.99,
+    "rating": 4.8
+  },
+  {
+    "id": "10",
+    "image": "https://static-01.daraz.com.bd/p/ff3deae774e41a9491019b2d893d5a4c.jpg",
+    "phone_name": "Xiaomi Redmi Note",
+    "brand_name": "Xiaomi",
+    "price": 1299.99,
+    "rating": 3.9
+  },
+  {
+    "id": "11",
+    "image": "https://static-01.daraz.com.bd/p/30e0eae11e7cfcf2924cf41d283553ae.jpg",
+    "phone_name": "Xiaomi Redmi 10A",
+    "brand_name": "Xiaomi",
+    "price": 1099.99,
+    "rating": 4.7
+  },
+  {
+    "id": "12",
+    "image": "https://static-01.daraz.com.bd/p/19b133906213bcccda357d36de841f97.jpg",
+    "phone_name": "Redmi 12C",
+    "brand_name": "Xiaomi",
+    "price": 1399.99,
+    "rating": 4.8
+  }
+]
